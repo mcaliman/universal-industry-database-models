@@ -7,6 +7,8 @@ by Len Silverston *Foreword by John Zachman*.
 * Professional Services
   * Temporary Placement Firms
   * Accounting Firms
+  * Law Firms
+  * Computer Consulting Firms
 * Financial Services Companies
   * Banks
   * Credit Unions
