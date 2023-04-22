@@ -73,19 +73,18 @@ by Len Silverston *Foreword by John Zachman*.
 45. plan_objective
 46. party_objective
 47. party_need
-48. 
-49. need_type
-50. agreement_term
-51. regulation_requirement
-52. financial_regulation
-53. plan_need
-54. party_role
-55. financial_institution (subtype of party)
-56. regulatory_agency (subtype of party)
-57. customer
-58. party_relationship
-59. party_relationship_type
-60. party_role_type
+48. need_type
+49. agreement_term
+50. regulation_requirement
+51. financial_regulation
+52. plan_need
+53. party_role
+54. financial_institution (subtype of party)
+55. regulatory_agency (subtype of party)
+56. customer
+57. party_relationship
+58. party_relationship_type
+59. party_role_type
 
 ### Insurance Companies
 
@@ -112,46 +111,45 @@ by Len Silverston *Foreword by John Zachman*.
 21. agreement_item 
 22. policy_item 
 23. policy_item_premium 
-24. insurance_factor 
-25.  
-26. geographic_boundary 
-27. risk_level_type 
-28. period_type 
-29. policy_item_premium_billing 
-30. insurance_rate 
-31. actuarial_analysis 
-32. work_effort 
-33. risk_analysis 
-34. invoice_item 
-35. insured_target 
-36. insured_asset 
-37. analysis_parameter 
-38. insured_asset_type 
-39. product_feature_coverage 
-40. insurance_product 
-41. coverage_level 
-42. coverage_level_basis 
-43. product_feature 
-44. coverage_availability 
-45. coverage_type_composition 
-46. coverage_interaction 
-47. product_category_classification 
-48. product_category_rollup 
-49. product_rule 
-50. product_category 
-51. coverage_category 
-52. quote_item 
-53. application_item 
-54. party_role 
-55. insured_party 
-56. insurance_provider 
-57. distribution_channel 
-58. party_relationship 
-59. party_relationship_type 
-60. party_role_type
-61. application_status 
-62. application_role 
-63. application 
-64. quote 
-65. quote_role 
+24. insurance_factor
+25. geographic_boundary 
+26. risk_level_type 
+27. period_type 
+28. policy_item_premium_billing 
+29. insurance_rate 
+30. actuarial_analysis 
+31. work_effort 
+32. risk_analysis 
+33. invoice_item 
+34. insured_target 
+35. insured_asset 
+36. analysis_parameter 
+37. insured_asset_type 
+38. product_feature_coverage 
+39. insurance_product 
+40. coverage_level 
+41. coverage_level_basis 
+42. product_feature 
+43. coverage_availability 
+44. coverage_type_composition 
+45. coverage_interaction 
+46. product_category_classification 
+47. product_category_rollup 
+48. product_rule 
+49. product_category 
+50. coverage_category 
+51. quote_item 
+52. application_item 
+53. party_role 
+54. insured_party 
+55. insurance_provider 
+56. distribution_channel 
+57. party_relationship 
+58. party_relationship_type 
+59. party_role_type
+60. application_status 
+61. application_role 
+62. application 
+63. quote 
+64. quote_role 
 
