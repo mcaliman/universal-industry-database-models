@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="insurance.sql" type="DatabaseScript" editBeforeRun="true" singleton="false" nameIsGenerated="true">
+    <script-file value="$PROJECT_DIR$/insurance.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="05476be5-b270-4740-864c-59ed89227468" />
+    <method v="2" />
+  </configuration>
+</component>
